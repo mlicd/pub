@@ -6,7 +6,7 @@ Secure your account quickly and easily, and verify your settings fast if you thi
 
 ### Quickly Verify Your Settings
 
-1. Go to this URL in the browser: [myaccount.google.com](myaccount.google.com)
+1. Go to this URL in the browser: [myaccount.google.com](https://myaccount.google.com)
 2. On left side menu, go to **Security and Sign-in.**
 3. Review the settings. It will show when you password was last updated, and your 2-Step Authentication settings.
 4. Click **Review security activity.**
