@@ -12,7 +12,7 @@ Secure your account quickly and easily, and verify your settings fast if you thi
 4. Click **Review security activity.**
 5. Review the list of activity, and for anything you do not recognize, click on it, and use the button **No, Secure Account** to proceed to reset your password.
 
-![image.png](https://resv2.craft.do/user/full/df12a11a-86d3-13df-a3d6-1c77a6df4712/doc/cbcc07d9-8481-49c1-88bb-f7340822b665/edf5988d-0ac7-4384-b825-c6514b8b2c05)
+![screenshot](images/google-security.jpg)
 
 ### Password
 
@@ -23,5 +23,3 @@ Secure your account quickly and easily, and verify your settings fast if you thi
 
 - Turn on 2-Step authentication. Use your mobile device, install Google app on it and use that as the other factor. This will apply when you logon to a new device. It will also significantly hamper attempts to take over your account.
 - **Instructions:** [https://support.google.com/accounts/answer/185839](https://support.google.com/accounts/answer/185839)
-
-?descriptionFromFileType=function+toLocaleUpperCase()+{+[native+code]+}+File&mimeType=application/octet-stream&fileName=Google+Account+Security.md&fileType=undefined&fileExtension=md
