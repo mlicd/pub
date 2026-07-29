@@ -23,3 +23,10 @@ Secure your account quickly and easily, and verify your settings fast if you thi
 
 - Turn on 2-Step authentication. Use your mobile device, install Google app on it and use that as the other factor. This will apply when you logon to a new device. It will also significantly hamper attempts to take over your account.
 - **Instructions:** [https://support.google.com/accounts/answer/185839](https://support.google.com/accounts/answer/185839)
+
+---
+
+#### Additional Links
+- **Check if you have any app passwords in use:** [https://myaccount.google.com/apppasswords](https://myaccount.google.com/apppasswords)
+- **Check your linked apps:** [https://myaccount.google.com/linkedapps](https://myaccount.google.com/linkedapps)
+- **Advanced Protection Program FAQ:** [https://support.google.com/accounts/answer/7539956](https://support.google.com/accounts/answer/7539956)
