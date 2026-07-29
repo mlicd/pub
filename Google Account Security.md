@@ -16,7 +16,7 @@ Secure your account quickly and easily, and verify your settings fast if you thi
 
 ### Password
 
-- Use a 12+ character password or passphrase that at least uses at least one of each - uppercase, lowercase, and a number. You don't have to change this very often, in fact you can leave it alone unless you think your account is compromised.
+- Use a 12+ character password or passphrase that at least uses one of each - uppercase, lowercase, and a number. You don't have to change this very often, in fact you can leave it alone unless you think your account is compromised.
 - **Instructions:** [https://support.google.com/accounts/answer/41078](https://support.google.com/accounts/answer/41078)
 
 ### 2-Factor Authentication
