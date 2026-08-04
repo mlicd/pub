@@ -12,6 +12,8 @@ Secure your account quickly and easily, and verify your settings fast if you thi
 4. Click **Review security activity.**
 5. Review the list of activity, and for anything you do not recognize, click on it, and use the button **No, Secure Account** to proceed to reset your password.
 
+Mobile devices sessions and web sessions will be terminated when the password is reset. 
+
 ![screenshot](images/google-security.jpg)
 
 ### Password
